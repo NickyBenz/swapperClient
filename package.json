@@ -1,0 +1,23 @@
+{
+  "name": "part1",
+  "version": "1.0.0",
+  "description": "[Part 1: Get the rates with a DEX aggregator](https://ethereumdev.io/trading-and-arbitrage-on-ethereum-dex-get-the-rates-part-1/)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@openzeppelin/contracts": "^3.1.0",
+    "@studydefi/money-legos": "^2.3.7",
+    "bignumber.js": "^9.0.0",
+    "decimal.js": "^10.2.0",
+    "ethereumjs-tx": "^2.1.2",
+    "node.js": "0.0.1-security",
+    "prompt": "^1.0.0",
+    "readline-sync": "^1.4.10",
+    "web3": "^1.2.11"
+  },
+  "devDependencies": {}
+}
